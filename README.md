@@ -28,18 +28,5 @@
 
 ![Admin Panel 2](screenshots/admin-panel2.JPG)
 
-## Homepage
-
-(عکس)
-
-## Search & Directory
-
-(عکس)
-
-## Detail Page
-
-(عکس)
-
-## Admin Dashboard
 
 (عکس)
