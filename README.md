@@ -27,3 +27,6 @@
 ### Admin Panel - Extended
 
 ![Admin Panel 2](screenshots/admin-panel2.JPG)
+# TEST
+
+![Homepage](screenshots/home-page.jpg)
