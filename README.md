@@ -27,6 +27,3 @@
 ### Admin Panel - Extended
 
 ![Admin Panel 2](screenshots/admin-panel2.JPG)
-
-
-(عکس)
