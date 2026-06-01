@@ -1,32 +1,20 @@
-## 📸 Screenshots
+<h2>Homepage</h2>
+<img src="screenshots/home-page.jpg" width="900">
 
-### Homepage
+<h2>Search Page</h2>
+<img src="screenshots/search-page.JPG" width="900">
 
-![Homepage](screenshots/home-page.jpg)
+<h2>Article Page</h2>
+<img src="screenshots/article-page.jpg" width="900">
 
-### Search Page
+<h2>Commission Page</h2>
+<img src="screenshots/commision.JPG" width="900">
 
-![Search Page](screenshots/search-page.JPG)
+<h2>Footer Section</h2>
+<img src="screenshots/footer.JPG" width="900">
 
-### Article Page
+<h2>Admin Panel</h2>
+<img src="screenshots/admin-panel.JPG" width="900">
 
-![Article Page](screenshots/article-page.jpg)
-
-### Commission Page
-
-![Commission](screenshots/commision.JPG)
-
-### Footer Section
-
-![Footer](screenshots/footer.JPG)
-
-### Admin Panel
-
-![Admin Panel](screenshots/admin-panel.JPG)
-
-### Admin Panel - Extended
-
-![Admin Panel 2](screenshots/admin-panel2.JPG)
-# TEST
-
-![Homepage](screenshots/home-page.jpg)
+<h2>Admin Panel Extended</h2>
+<img src="screenshots/admin-panel2.JPG" width="900">
